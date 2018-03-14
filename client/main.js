@@ -8,7 +8,7 @@ import LinkList from './components/LinkList';
 
 const App = () => {
     return (
-        <div>
+        <div className="container">
             <Header />
             <LinkCreate />
             <LinkList />
